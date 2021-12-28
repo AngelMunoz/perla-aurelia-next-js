@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AngelMunoz/Perla/main/perla.schema.json",
+  "index": "./index.html",
+  "packages": {
+    "aurelia": "https://cdn.skypack.dev/pin/aurelia@v2.0.0-alpha.23-YFPRlXsjEIFmqZsCVxq5/mode=imports,min/optimized/aurelia.js"
+  }
+}
